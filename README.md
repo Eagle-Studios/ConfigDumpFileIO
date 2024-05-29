@@ -19,4 +19,5 @@ _https://forums.bohemia.net/forums/topic/191737-updated-all-in-one-config-dumps/
     - Arma may freeze once or several times. Doing anything to "stop" this as it'll create a game crash. Let it do its thing, until its no longer freezing etc.
     - Once the process has been completed, and you can quit the game. 
   - You should find the dumped file in your ARMA 3 root directory (Where the .Sqf/.Dll you pasted earilier are, aka where the Arma.exe is stored.)
+    - You are looking for a file with this format **AiO.versionNumber.cpp**
     - If there is no such file, then it didnt work. Go back and try again, it's possible you missed something or quit too early.

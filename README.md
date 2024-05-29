@@ -14,7 +14,7 @@ _https://forums.bohemia.net/forums/topic/191737-updated-all-in-one-config-dumps/
   - Press Escape to bring up the Options Menu and most importantly the debug console.
     - On the debug console, in the execute section, paste the following:
     ``` [configFile] call compile preprocessFileLineNumbers "dumpConfig.sqf" ```
-  - Now click the LOCAL EXE button
+  - Now click the LOCAL EXEC button
   - Wait until Arma finishes processing.
     - Arma may freeze once or several times. Doing anything to "stop" this as it'll create a game crash. Let it do its thing, until its no longer freezing etc.
     - Once the process has been completed, and you can quit the game. 

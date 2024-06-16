@@ -9,7 +9,7 @@ _https://forums.bohemia.net/forums/topic/191737-updated-all-in-one-config-dumps/
 - Move the dumpconfig.sqf and ConfigDumpFileIO_x64.dll to Arma 3 root directory (Which is where the Arma.exe is stored)
 - Load the ARMA 3 Launcher and be sure to select the Parameters --> Enable File-Patching and Disable Battle eye.
 - Launch ARMA 3 with ONLY mods you want to dump
-  - Adding unnessacry mods will mean there is more config to export AND more things for you to look through.
+  - Adding unnecessary mods will mean there is more config to export AND more things for you to look through.
   - Run Arma, On the Main Menu, select Editor, VR, then immediatly play the scenario (Enter is the shortcut!)
   - Press Escape to bring up the Options Menu and most importantly the debug console.
     - On the debug console, in the execute section, paste the following:

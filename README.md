@@ -16,7 +16,7 @@ _https://forums.bohemia.net/forums/topic/191737-updated-all-in-one-config-dumps/
     ``` [configFile] call compile preprocessFileLineNumbers "dumpConfig.sqf" ```
   - Now click the LOCAL EXEC button
   - Wait until Arma finishes processing.
-    - Arma may freeze once or several times. Doing anything to "stop" this as it'll create a game crash. Let it do its thing, until its no longer freezing etc.
+    - Arma may freeze once or several times. Doing anything to "stop" this will create a game crash. Let it do its thing, until its no longer freezing etc.
     - You can easily tell if Arma has finished or not, keep your mouse hovered over the LOCAL EXEC button; it'll turn white again when Arma is finished. 
   - Once the process has been completed, and you can quit the game. 
   - You should find the dumped file in your ARMA 3 root directory (Where the .Sqf/.Dll you pasted earilier are, aka where the Arma.exe is stored.)
